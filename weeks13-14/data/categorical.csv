@@ -1,0 +1,6 @@
+Minutes,Gender,Marital,Satisfaction,Churn
+100,Male,Single,Low,0
+220,Female,Married,Very Low,0
+500,Female,Divorced,High,1
+335,Male,Single,Neutral,0
+450,Male,Married,Very High,1
